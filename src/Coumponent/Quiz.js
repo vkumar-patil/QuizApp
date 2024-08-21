@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Quiz() {
-  return (
-    <div>
-      
-    </div>
-  )
+  return <></>;
 }
 
-export default Quiz
+export default Quiz;
