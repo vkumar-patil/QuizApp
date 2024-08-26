@@ -1,0 +1,28 @@
+.Resultmainpage{
+    background-image: url(./frame-6620372_1280.webp);
+    height: 595px;
+    position: relative;
+}
+.Resultdiv{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 200px;
+    text-align: center;
+
+}
+.Resultheading{
+    text-shadow: rgb(240, 159, 240) 2px 2px 2px ;
+}
+.Resulanswer{
+    font-size: x-large;
+    text-shadow: greenyellow 2px 2px 2px;
+}
+.Resultbtn{
+    width: 200px;
+    margin: 5px;
+    
+}
+.Resultupdate{
+    text-shadow: yellow 2px 2px 2px ;
+    
+}

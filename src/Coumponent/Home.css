@@ -1,0 +1,21 @@
+.homecontainer{
+    text-align: center;
+    position: absolute;
+    top: 70px;
+    left: 540px;
+   
+}
+.Homepageheding{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: chartreuse;
+}
+.Homepagebtn{
+    margin-top: 3px;
+}
+.Home{
+    position: relative;
+    height: 590px;
+    background-image:url(./quiz-background-with-items-flat-design_23-2147599082.avif);
+    background-size: cover;
+    
+}
